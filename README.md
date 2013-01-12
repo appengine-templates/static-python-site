@@ -7,7 +7,7 @@ How to
 ------
 
 * Put your static files in the `static` directory and you're almost done.
-* Also, you need to change the application name in the app.yaml to what you've entered in your App Engine dashboard.  
+* Also, you need to change the application name in the app.yaml to what you've entered in your App Engine dashboard. 
 * Upload the site using the following command line in the parent directory of this repo:  
   `appcfg.py update static-python-site/`  
   More information on uploading is available here: <https://developers.google.com/appengine/docs/python/tools/uploadinganapp>
